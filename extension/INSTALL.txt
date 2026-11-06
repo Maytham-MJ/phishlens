@@ -1,0 +1,10 @@
+PhishLens for Chrome and Edge
+
+1. Extract this ZIP into a folder.
+2. Visit chrome://extensions or edge://extensions.
+3. Enable Developer mode, click Load unpacked, and select this folder.
+4. Pin PhishLens. Click its toolbar icon, then Use current page, or paste a domain or email.
+
+Permission: activeTab gives temporary access to the current tab when you open the extension. No host permissions, background scanning, analytics, remote requests, or storage. Email checks run entirely locally.
+
+Pattern checks are not a safety guarantee. Live reputation and sender authenticity are not checked.
