@@ -2,7 +2,7 @@
 
 A Matrix-style phishing checker with a web app and a Chrome/Edge extension.
 
-**[Open the live app](https://phishlens-check.maythamlucky.chatgpt.site)** (owner-private; sign in with an account granted access).
+**[Open the live app](https://phishlens-check.maythamlucky.chatgpt.site)** (public demo; no login required).
 
 ## Features
 
