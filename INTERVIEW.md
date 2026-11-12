@@ -15,7 +15,7 @@ I developed PhishLens with AI-assisted coding to investigate suspicious domains 
 
 ## Demo
 
-Scan example.com, try the built-in suspicious example, explain the findings, and download the report.
+Scan example.com, try the built-in suspicious example, explain the findings, and download the report. Open the validation panel to run 12 curated functional checks and export the results. Explain that passing these checks is not evidence of real-world detection accuracy.
 
 ## Limits to explain
 

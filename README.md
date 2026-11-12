@@ -14,6 +14,7 @@ A Matrix-style phishing checker with a web app and a Chrome/Edge extension.
 - Hash attachments locally and flag basic risky file types.
 - Verify the first supported full-body RSA-SHA256 DKIM signature in an original `.eml`, using its public DNS key.
 - Download a plain-text report.
+- Run 12 offline functional validation cases in the app and export their actual results as JSON. This is not a real-world accuracy benchmark.
 
 ## Run locally
 
@@ -22,6 +23,7 @@ Use Node.js 24 or newer. Builds and tests need no application dependencies.
 ```sh
 node scripts/build.mjs
 node tests/checks.mjs
+node tests/validation.mjs
 npx wrangler dev
 ```
 
